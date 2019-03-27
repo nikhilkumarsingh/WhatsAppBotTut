@@ -27,7 +27,7 @@ A step-by-step tutorial to create a **WhatsApp Bot using Twilio and Python**.
 
 - [Reference Material](https://github.com/nikhilkumarsingh/WhatsAppBotTut/blob/master/03.%20Deploying%20Flask%20App%20on%20Heroku.ipynb)
 
-- [Code](https://github.com/nikhilkumarsingh/WhatsAppBotTut/tree/master/code/echo_bot)
+- [Code](https://github.com/nikhilkumarsingh/WhatsAppBotTut/tree/master/code/heroku_echo_bot)
 
 - [Video](https://www.youtube.com/watch?v=4ho21Wppf30)
 
